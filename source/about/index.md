@@ -1,6 +1,7 @@
 title: "about"
 date: 2015-05-11 13:34:27
 ---
+<img src="/about/index/portrait.jpg" width="240" style="border-radius: 100%; padding: 50px 0; float: right">
 
 
 > Freelancer
@@ -13,6 +14,9 @@ date: 2015-05-11 13:34:27
 > Berlin, Germany
 
 <a href="https://docs.google.com/forms/d/1BxhAu46f-qdPS-SDYsdF3RS1W1yKR2mkSKy0K7OXLoI/viewform">Ask me anything</a>
+
+
+
 
 * [@pixarea](https://twitter.com/pixarea)
 * [github.com/danielres](https://wwww.github.com/danielres)
