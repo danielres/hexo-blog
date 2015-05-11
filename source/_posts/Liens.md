@@ -1,4 +1,4 @@
-title: "Je suis les liens que je tisse <br /><small>L'avenir du travail par Albert Jacquart</small>"
+title: "<div>Je suis les liens que je tisse</div><small>L'avenir du travail par Albert Jacquart</small>"
 date: 2015-05-08 16:10:07
 tags: quotes
 ---

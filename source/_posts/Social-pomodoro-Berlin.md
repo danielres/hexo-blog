@@ -1,4 +1,4 @@
-title: "Social pomodoro Berlin <br /><small>Creating + relaxing together</small>"
+title: "<div>Social pomodoro Berlin</div><small>Creating + relaxing together</small>"
 
 date: 2015-05-08 17:19:32
 tags:
