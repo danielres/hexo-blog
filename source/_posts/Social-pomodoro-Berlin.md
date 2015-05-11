@@ -3,16 +3,7 @@ title: "<div>Social pomodoro Berlin</div><small>Creating + relaxing together</sm
 date: 2015-05-08 17:19:32
 tags:
 ---
-
-<style>
-.post-title small { font-weight: normal; }
-.post-more-link {display: none}
-</style>
-
-
-<span></span>
-
-<!-- more --> 
+<span style="display: none"></span> <!-- more -->
 
 You just need to come with something you want to work on, your tools, and your beautiful mind !
 
