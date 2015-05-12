@@ -1,5 +1,5 @@
-title: "<div>Social pomodoro Berlin</div><small>Creating + relaxing together</small>"
-
+title: Social pomodoro Berlin
+sub: Creating + relaxing together
 date: 2015-05-08 17:19:32
 tags:
 ---
