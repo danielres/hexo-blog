@@ -18,7 +18,7 @@ date: 2015-05-11 13:34:27
 <i class="glyphicon glyphicon-envelope" style="margin-left: -1.1em; color: white; background: #aaa; padding: 10px; border-radius: 100%"></i> <a href="https://docs.google.com/forms/d/1BxhAu46f-qdPS-SDYsdF3RS1W1yKR2mkSKy0K7OXLoI/viewform">Ask me anything</a>
 
 
-> [github.com/danielres](https://wwww.github.com/danielres)
+> [github.com/danielres](https://www.github.com/danielres)
 > [@pixarea](https://twitter.com/pixarea)
 > [Facebook](https://www.facebook.com/daniel.reszka.58)
 > [LinkedIn](https://be.linkedin.com/in/danielres)
