@@ -1,7 +1,6 @@
-title: "Photons"
+title: "Creations"
 date: 2015-05-08 16:33:47
 ---
-
 
 {% img /images/octo.jpg [My friend Ocktopuss [My friend Ocktopuss drawing ]] %}
 <br />
@@ -12,3 +11,16 @@ date: 2015-05-08 16:33:47
 {% img /images/bloom.png [Bloom [Bloom drawing ]] %}
 <br />
 {% img http://fc04.deviantart.net/fs70/f/2010/243/4/0/concentration_by_daanil-d2xotj6.jpg [Chores [Chores image ]] %}
+
+<br />
+<hr />
+<br />
+
+
+<p style="text-align: center">
+  <i class="icon-flickr2" style="font-size: 20px; position: relative; top: 3px"></i> <a href="https://www.flickr.com/photos/pixarea/"> More of my creations on Flickr</a>
+</p>
+
+
+<br />
+<hr />
