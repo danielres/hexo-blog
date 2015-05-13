@@ -1,5 +1,5 @@
 title: "Creations"
-date: 2015-05-08 16:33:47
+sub: "Drawings, photos, experiments,..."
 ---
 
 {% img /images/octo.jpg [My friend Ocktopuss [My friend Ocktopuss drawing ]] %}
@@ -11,6 +11,8 @@ date: 2015-05-08 16:33:47
 {% img /images/bloom.png [Bloom [Bloom drawing ]] %}
 <br />
 {% img http://fc04.deviantart.net/fs70/f/2010/243/4/0/concentration_by_daanil-d2xotj6.jpg [Chores [Chores image ]] %}
+<br />
+{% img /images/insect-communication.jpg [Insect communication [Insect communication photography ]] %}
 
 <br />
 <hr />
@@ -22,5 +24,6 @@ date: 2015-05-08 16:33:47
 </p>
 
 
+<br />
 <br />
 <hr />
