@@ -22,7 +22,7 @@ date: 2015-05-11 13:34:27
 > [@pixarea](https://twitter.com/pixarea)
 > [Facebook](https://www.facebook.com/daniel.reszka.58)
 > [LinkedIn](https://be.linkedin.com/in/danielres)
-> [Deviantart](http://daanil.deviantart.com/gallery/)
+> [Flickr](https://www.flickr.com/photos/pixarea/)
 > [About.me](about.me/daniel.r)
 > +49 (0) 1575-1601005
 > VAT: DE 298 753 316
