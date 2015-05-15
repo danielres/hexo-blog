@@ -59,7 +59,7 @@ Collaborative platform to share and learn idiomatic expressions in various langu
 
 <i class="icon-github"></i> [danielres/expresto](https://github.com/danielres/expresto_BDD)
 
-{% img /code/index/expresto.jpg 400 %}
+{% img /images/dev/expresto.jpg 400 %}
 
 
 <br />
@@ -71,7 +71,8 @@ Collaborative platform to share and learn idiomatic expressions in various langu
 Personal website of Jean-Luc Champougny.
 <small class="item-description">Psychotherapy, Life coaching</small>
 
- {% img /code/index/kizedec.png 400 %}
+ {% img /images/dev/kizedec.png 400 %}
+
 
 
 <br />
@@ -83,7 +84,7 @@ Personal website of Jean-Luc Champougny.
 Official website of the association.
 <small class="item-description">Psychology, Psychotherapy, Psychonalysis</small>
 
-{% img /code/index/mlvf.png 400 %}
+{% img /images/dev/mlvf.png 400 %}
 
 
 <br />
@@ -95,7 +96,7 @@ Official website of the association.
 Official website for the association
 <small class="item-description">Self-development, Coaching, Well-being</small>
 
-{% img /code/index/spirales.jpg 400 %}
+{% img /images/dev/spirales.jpg 400 %}
 
 
 <br />
@@ -106,7 +107,7 @@ Official website for the association
 Personal website of Nathalie Champougny, Jungian psychologist.
 <small class="item-description">Psychology, Psychotherapy, Psychonalysis</small>
 
-{% img /code/index/psynath.png 400 %}
+{% img /images/dev/psynath.png 400 %}
 
 
 <br />
