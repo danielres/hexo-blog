@@ -1,7 +1,14 @@
 title: Social pomodoro Berlin
 sub: Creating + relaxing together
 date: 2015-05-08 17:19:32
+categories: 
+- working better
 tags:
+- meetup
+- berlin
+- pomodoro
+- life hacks
+
 ---
 <span style="display: none"></span> <!-- more -->
 
