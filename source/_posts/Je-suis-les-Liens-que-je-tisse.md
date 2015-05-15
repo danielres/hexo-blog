@@ -1,11 +1,14 @@
 title: Je suis les liens que je tisse
-sub: L'avenir du travail par Albert Jacquart
+sub: "L'avenir du travail par Albert Jacquart"
 date: 2015-05-08 16:10:07
-tags: quotes
+category: 
+- society
+tags: 
+- quotes
+- videos
+- food for thought
 ---
-
-<span></span>
-
+&nbsp;
 <!-- more --> 
 
 {% youtube oyYzeJ_Pf6o %}
