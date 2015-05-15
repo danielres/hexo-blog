@@ -8,9 +8,8 @@ tags: quotes
 
 <!-- more --> 
 
+{% youtube oyYzeJ_Pf6o %}
 
-
-{% youtube https://www.youtube.com/watch?v=oyYzeJ_Pf6o %}
 
 > Je suis les liens que je tisse
 >
