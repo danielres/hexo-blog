@@ -1,4 +1,4 @@
-title: "<div>New city, new blog</div>"
+title: "New city, new blog"
 date: 2015-05-08 15:28:18
 tags: 
 ---
