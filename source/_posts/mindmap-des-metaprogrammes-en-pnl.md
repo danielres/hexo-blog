@@ -4,6 +4,7 @@ title: Métaprogrammes en PNL
 sub: (Mindmap)
 categories:
 - NLP
+- soft skills
 tag:
 - creative-commons
 - mindmap
